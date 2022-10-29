@@ -12,4 +12,4 @@ program Flow
 Program Execution
 1) get Apache and MySQL running in XAPP
 2) import sql file into phpAdmin (test.sql)
-3) Navigate the URL to testing/index.php
+3) Navigate the URL to index.php
